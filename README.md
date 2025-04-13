@@ -1,9 +1,9 @@
 # Happiness Analysis
 
 ## Project Summary
-This project explores the different factors which have an effect on level of happiness a country experiences.The objective is to identify key drivers of happiness and what changes countries can make to imrpove their happiness.
+This project investigates the different factors that influence a country's overall level of happiness. The primary objective is to identify the key drivers of happiness and provide actionable insights into how countries can enhance the well-being of their populations..
 
-Using Python and techniques such as Supervised/unsupervised machine learning, geospatial analysis and statisical modeling to uncovers patterns in social and economical factors countries can use to improve happiness.
+Using Python, the analysis Utilises supervised and unsupervised machine learning, geospatial analysis, and statistical modeling to uncover patterns in social and economic factors that contribute to a countries happiness
 
 ## Objective & Key Questions 
 
