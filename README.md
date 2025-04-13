@@ -14,6 +14,9 @@ Using Python, the analysis Utilises supervised and unsupervised machine learning
 
 ## Data & Tools
 
-The dataset includes comprehensive information on Rockbuster’s film inventory, customer profiles, and payment transactions. Postgre SQL was used for analysis and Tableau was used to create the Visualisations. 
+The dataset “World Happiness Report 2015–2019” from Kaggle includes comprehensive information on key happiness factors. Python was used for analysis and Tableau  to create the visualisation/storyboard. 
 
 ## Tableau Storyboard
+
+Click the link to view the storyboard
+https://public.tableau.com/app/profile/mosharrf.miah/viz/WorldHappinessAnalysisStory/Story1
