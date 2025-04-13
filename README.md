@@ -1,11 +1,11 @@
 # Happiness-Analysis
 
 ## Project Summary
-Rockbuster Stealth LLC are a worldwide video rental company. This project is aimed at answering key strategic questions, enabling Rockbuster to differentiate their revenue source and expand within the streaming market.
-SQL is used to retrieve data driven insights, focusing on identifying average rental durations, sales across regions and customer geographical distribution. The results were visualised to provide clear and actionable insights. 
-This project demostrates the ability to answer complex business problems using both SQL for the analysis and Tableau for the visualisations.
+This project explores the different factors which have an effect on level of happiness a country experiences.The objective is to identify key drivers of happiness and what changes countries can make to imrpove their happiness.
 
+Supervised and unsupervised machine learning, geospatial analysis and statisical modeling 
 
+By leveraging Python and Tableau, this analysis uncovers patterns in happiness scores, GDP per capita, social support, life expectancy, and other influential variables. The study provides data-driven recommendations for policymakers and stakeholders to improve well-being across different regions.
 ## Objective & Key Questions 
 
 The Rockbuster Stealth Management Board has asked a series of business questions and
